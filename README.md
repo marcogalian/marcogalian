@@ -14,7 +14,7 @@ Me gusta explorar arquitecturas como la **Hexagonal, MVC y DDD**, tratando de ap
 - **Frontend:** JavaFX (CSS modular), React (conceptos básicos), TailwindCSS.
 - **Bases de Datos:** MongoDB, MySQL, PostgreSQL.
 - **IA Local:** Integración de modelos LLM (ONNX/LangChain4j) en aplicaciones de escritorio.
-- **Herramientas:** Git (Gitflow), Docker, Odoo, n8n y creación de instaladores nativos (Inno Setup/Launch4j).
+- **Herramientas:** Git (Gitflow), Docker, Odoo, n8n, servidores mcp y creación de instaladores nativos (Inno Setup/Launch4j).
 
 ---
 
