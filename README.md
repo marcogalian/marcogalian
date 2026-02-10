@@ -21,7 +21,7 @@ Me gusta explorar arquitecturas como la **Hexagonal y DDD** para entender cómo 
 
 ### 💇‍♂️ Sistema de Gestión de Peluquería (TFG)
 Un proyecto para poner en práctica la gestión empresarial y la integración de herramientas modernas.
-- **Lo que aprendí:** Implementación de Spring Security, JWT y una pequeña integración con **IA local (Ollama)** para funciones de asistencia.
+- **Lo que estoy aprendiendo:** Implementación de Spring Security, JWT y una pequeña integración con **IA local (Ollama)** para funciones de asistencia.
 - **Stack:** Java 17, Spring Boot 3, React y MySQL.
 
 ### 🛍️ App Ventapop (Bootcamp)
