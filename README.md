@@ -1,49 +1,46 @@
 # ¡Hola! Soy Marco Antonio Galián Raja 👋
 
-### Desarrollador de Aplicaciones Multiplataforma (DAM)
+### Desarrollador de Aplicaciones Multiplataforma en formación
 
-Soy un desarrollador con una base sólida en **Java, Spring Boot y bases de datos SQL**, enfocado en el diseño de interfaces y la creación de soluciones multiplataforma eficientes[cite: 2, 29]. [cite_start]Actualmente curso el 2º año de DAM en el **IES ISEN, Cartagena**, donde aplico arquitecturas modernas como **Hexagonal y DDD** para garantizar código limpio y escalable[cite: 30, 40].
+Soy un estudiante apasionado por el desarrollo de software, actualmente cursando mi **2º año de DAM en el IES ISEN, Cartagena**. Mi enfoque está en aprender y aplicar buenas prácticas de desarrollo en el ecosistema **Java y Spring Boot**. 
 
----
-
-## 🛠️ Mi Stack Tecnológico
-
-### Lenguajes y Frameworks
-- [cite_start]**Backend:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) [cite: 8, 10]
-- [cite_start]**Frontend:** ![JavaFX](https://img.shields.io/badge/JavaFX-4169E1?style=flat-square&logo=java&logoColor=white) ![React](https://img.shields.io/badge/React-202327?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) [cite: 9, 10]
-- [cite_start]**Bases de Datos:** ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) [cite: 11]
-
-### Herramientas y Metodologías
-- [cite_start]**DevOps:** Docker, Git (Gitflow), Odoo, n8n, MCP[cite: 11, 13].
-- [cite_start]**Metodologías:** MVC, Scrum[cite: 13].
+Me gusta explorar arquitecturas como la **Hexagonal y DDD** para entender cómo construir aplicaciones que sean fáciles de mantener y escalar a largo plazo.
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🛠️ Tecnologías que estoy aprendiendo y usando:
+
+- **Backend:** Java, Spring Boot, PHP (Laravel).
+- **Frontend:** JavaFX, React (conceptos básicos), TailwindCSS.
+- **Bases de Datos:** MySQL, PostgreSQL, MongoDB.
+- **Herramientas:** Git (Gitflow), Docker, Odoo y automatización con n8n.
+
+---
+
+## 🚀 Proyectos en los que he trabajado:
 
 ### 💇‍♂️ Sistema de Gestión de Peluquería (TFG)
-Desarrollo de una aplicación empresarial robusta con integración de **IA local**.
-- [cite_start]**Arquitectura:** Hexagonal y DDD[cite: 19].
-- [cite_start]**Seguridad:** Spring Security y JWT[cite: 19].
-- [cite_start]**Innovación:** IA local con **Ollama** y **MCP**[cite: 19].
-- [cite_start]**Tech Stack:** Java 17, Spring Boot 3, React, MySQL[cite: 19].
+Un proyecto para poner en práctica la gestión empresarial y la integración de herramientas modernas.
+- **Lo que aprendí:** Implementación de Spring Security, JWT y una pequeña integración con **IA local (Ollama)** para funciones de asistencia.
+- **Stack:** Java 17, Spring Boot 3, React y MySQL.
 
-### 🛍️ App Ventapop
-[cite_start]Plataforma e-commerce desarrollada en equipo bajo metodología **SCRUM**[cite: 23].
-- [cite_start]**Tech Stack:** Laravel 10, Livewire, Bootstrap, MariaDB[cite: 24].
-
----
-
-## 🎓 Educación y Formación
-- **FP Grado Superior en DAM** | [cite_start]IES ISEN, Cartagena (En curso)[cite: 40].
-- **Bootcamp Full Stack Developer** | [cite_start]Aulab Srl (+400 horas)[cite: 45].
+### 🛍️ App Ventapop (Bootcamp)
+Proyecto colaborativo realizado durante mi formación intensiva.
+- **Lo que aprendí:** Trabajo en equipo bajo metodología **Scrum** y desarrollo ágil con Laravel 10.
+- **Stack:** PHP, Livewire, MariaDB.
 
 ---
 
-## 📫 Conecta conmigo:
-- [cite_start]**LinkedIn:** [linkedin.com/in/marco-antonio-galian-developer](https://linkedin.com/in/marco-antonio-galian-developer) [cite: 4]
-- [cite_start]**Portfolio:** [marcogalian.es](https://marcogalian.es) [cite: 4]
-- [cite_start]**Email:** marcogalian@hotmail.com [cite: 3]
+## 🎓 Mi camino:
+- **FP Grado Superior en DAM** | IES ISEN (En curso) [2024 - Presente].
+- **Bootcamp Full Stack Developer** | Aulab Srl (+400 horas de formación práctica).
 
 ---
-> [cite_start]**Dato curioso:** Mi experiencia previa como Diseñador y Patronista me ha otorgado una atención al detalle y precisión técnica excepcionales, que ahora aplico en el desarrollo de interfaces de usuario[cite: 34, 37].
+
+## 📫 Contacto:
+- **LinkedIn:** [linkedin.com/in/marco-antonio-galian-developer](https://linkedin.com/in/marco-antonio-galian-developer)
+- **Portfolio personal:** [marcogalian.es](https://marcogalian.es)
+- **Email:** marcogalian@hotmail.com
+
+---
+> *Viniendo del sector del diseño y patronaje, he aprendido que la precisión y el detalle son fundamentales, ya sea en una prenda de vestir o en una línea de código.*
