@@ -20,7 +20,7 @@ Me gusta explorar arquitecturas como la **Hexagonal, MVC y DDD**, tratando de ap
 
 ## 🚀 Proyectos Destacados:
 
-### 🏫 EduManage - Sistema de Gestión de Asistencia (Proyecto 2ª Ev)
+### 🏫 Gestión de alumnos - Sistema de Gestión de Asistencia (Proyecto 2ª Ev)
 Herramienta de escritorio para la gestión de faltas y asistencias en tiempo real, desarrollada como una **SPA (Single Page Application)**.
 - **Roles y Seguridad:** Sistema de permisos diferenciado; los administradores gestionan personal y alumnos, mientras que los profesores acceden solo al panel de asistencia.
 - **IA Local:** Asistente integrado para consultar datos de la base de datos mediante lenguaje natural.
