@@ -13,7 +13,7 @@ Me gusta explorar arquitecturas como la **Hexagonal y DDD** para entender cómo 
 - **Backend:** Java, Spring Boot, PHP (Laravel).
 - **Frontend:** JavaFX, React (conceptos básicos), TailwindCSS.
 - **Bases de Datos:** MySQL, PostgreSQL, MongoDB.
-- **Herramientas:** Git (Gitflow), Docker, Odoo y automatización con n8n.
+- **Herramientas:** Git (Gitflow), Docker, Odoo y automatización con n8n y servidores MCP.
 
 ---
 
